@@ -97,3 +97,67 @@ A personal finance management system to track daily expenses and analyze spendin
 
 Generate the complete README.md code only.
 I should be able to directly copy and paste it into my GitHub profile README.
+
+
+
+
+---
+
+# 📚 Currently Learning
+
+🌱 AWS Architecture  
+🌱 Kubernetes Deployment  
+🌱 Docker Optimization  
+🌱 Terraform  
+🌱 DevOps Automation  
+🌱 Cloud Security  
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GoUraavGarG&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🎯 Career Goals
+
+🚀 Become a Cloud Engineer  
+☁️ Design scalable cloud solutions  
+🐳 Master DevOps technologies  
+🌍 Work on impactful projects  
+
+
+---
+
+# 🤝 Connect With Me
+
+
+💼 LinkedIn: Add Your LinkedIn Link  
+
+📧 Email: Add Your Email  
+
+🐙 GitHub:
+https://github.com/GoUraavGarG
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+
+⭐ Learn • Build • Deploy • Repeat 🚀
+
+</div>
