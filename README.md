@@ -144,9 +144,9 @@ I should be able to directly copy and paste it into my GitHub profile README.
 # 🤝 Connect With Me
 
 
-💼 LinkedIn: Add Your LinkedIn Link  
+💼 LinkedIn: https://www.linkedin.com/in/gourav-garg-8b2727305
 
-📧 Email: Add Your Email  
+📧 Email: garggourav837@gmail.com
 
 🐙 GitHub:
 https://github.com/GoUraavGarG
