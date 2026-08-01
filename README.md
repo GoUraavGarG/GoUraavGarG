@@ -1,103 +1,98 @@
-Create a unique, professional and recruiter-friendly GitHub Profile README.md for me.
+<div align="center">
 
-My details:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Gourav%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-Name: Gourav Garg
+<h2>☁️ Cloud & DevOps Enthusiast</h2>
 
-Profile:
-I am a BCA Graduate and a Cloud Computing & DevOps enthusiast. I am building my career towards Cloud Engineer / DevOps Engineer roles.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Learner;DevOps+Enthusiast;Docker+%7C+Kubernetes+Explorer;Building+Real+World+Projects"/>
 
-My goal:
-Create a GitHub profile that looks different from normal fresher profiles and highlights my Cloud, DevOps and project skills professionally.
+<br>
 
-My Skills:
+<img src="https://komarev.com/ghpvc/?username=GoUraavGarG&label=Profile%20Views&color=blue&style=flat"/>
 
-Cloud:
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS VPC
-- AWS RDS
-- AWS CloudWatch
-
-DevOps:
-- Linux
-- Docker
-- Docker Compose
-- Kubernetes Basics
-- CI/CD Concepts
-- Git & GitHub
-
-Programming:
-- Python
-- Flask
-- HTML5
-- CSS3
-- JavaScript
-- SQL
-- REST API Basics
-
-Database:
-- MySQL
-- SQLite
-- AWS RDS
+</div>
 
 
-My Projects:
+---
 
-1. Customer Relationship Management (CRM) System
+# 👋 About Me
 
-Description:
-A CRM application developed to manage customer information, interactions and business records efficiently.
+Hi, I'm **Gourav Garg** 👨‍💻
 
-Features:
-- Customer management
-- Add, update and delete customer records
-- Search functionality
-- Dashboard management
-- Database integration
-- Organized data handling
+🎓 BCA Graduate  
+☁️ Passionate about Cloud Computing & DevOps  
+🚀 Exploring AWS Cloud Infrastructure and Automation  
+🐳 Learning Docker, Kubernetes and CI/CD  
+🐍 Using Python for automation and application development  
 
-Technology:
-Python, Flask, SQLite, HTML, CSS
+My goal is to become a **Cloud Engineer / DevOps Engineer** and build scalable cloud solutions.
 
+---
 
-2. Expense Tracker Application
-
-Description:
-A finance management application that helps users track daily expenses and manage spending habits.
-
-Features:
-- Add daily expenses
-- Category based expense tracking
-- Expense management
-- Monthly expense summary
-- Database storage
-- Simple user interface
-
-Technology:
-Python, Flask, SQL, HTML, CSS
+# 🛠️ Tech Stack
 
 
-README Requirements:
+## ☁️ Cloud
 
-- Make it modern and unique
-- Do not make it look like a copied template
-- Add a professional introduction section
-- Add animated typing effect
-- Add About Me section
-- Add Tech Stack section
-- Add Cloud & DevOps skills section
-- Add Featured Projects section
-- Add Learning Journey roadmap
-- Add Current Learning section
-- Add GitHub Stats section
-- Add Career Goals section
-- Add Contact section
-- Use attractive emojis but keep it professional
-- Use clean Markdown formatting
-- Add badges/icons if suitable
-- Make it suitable for Cloud Engineer / DevOps Engineer fresher profile
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+
+## 🚀 DevOps Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github"/>
+
+
+## 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql"/>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🏢 CRM - Customer Relationship Management System
+
+A complete CRM application to manage customer information and business records efficiently.
+
+### Features:
+✅ Customer Management  
+✅ Add / Update / Delete Records  
+✅ Search Functionality  
+✅ Dashboard Management  
+✅ Database Integration  
+
+**Technology Used:**
+
+`Python` `Flask` `SQLite` `HTML` `CSS`
+
+
+---
+
+## 💰 Expense Tracker Application
+
+A personal finance management system to track daily expenses and analyze spending.
+
+### Features:
+
+✅ Add Daily Expenses  
+✅ Category Based Tracking  
+✅ Expense Management  
+✅ Monthly Expense Summary  
+✅ Database Storage  
+
+
+**Technology Used:**
+
+`Python` `Flask` `SQL` `HTML` `CSS`
+
+
+---
+
+# ☁️ Cloud Journey
+
+
 - Keep the design impressive for recruiters
 
 Generate the complete README.md code only.
