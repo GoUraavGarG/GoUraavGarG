@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Gourav%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Gourav%20&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <h2>☁️ Cloud & DevOps Enthusiast</h2>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GoUraavGarG&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=GoUraavGarG&label=Profile%20Views&color=green&style=flat"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 # 👋 About Me
 
-Hi, I'm **Gourav Garg** 👨‍💻
+Hi, I'm Gourav
 
 🎓 BCA Graduate  
 ☁️ Passionate about Cloud Computing & DevOps  
