@@ -133,11 +133,24 @@ Customer relationship management project.
 
 
 
+<div align="center">
+
+<table>
+<tr>
+<td width="700">
+
 <h2>🎯 Career Goals</h2>
 
 ☁️ To become a skilled Cloud & DevOps Engineer  
-🚀 Learn AWS, Docker, Kubernetes & CI/CD Automation  
-💻 Build scalable and reliable cloud solutions
+🚀 Build scalable and reliable cloud solutions  
+⚙️ Improve my skills in AWS, Docker, Kubernetes & CI/CD  
+🌱 Keep learning and growing in Cloud Technologies  
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 # 🤝 Connect With Me
