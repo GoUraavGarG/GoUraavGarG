@@ -118,14 +118,7 @@ Goal:
 
 ---
 
-# 💡 Quote
 
-> ☁️ "Exploring the world of Cloud & DevOps — learning, building and growing every day."
-
----
-
-
----
 
 # 📚 Currently Learning
 
@@ -156,7 +149,7 @@ Goal:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
-# 🎯 Career Goals
+# 🎯 Career Goals#
 
 🚀 Become a Skilled Cloud Engineer  
 ☁️ Build Scalable Cloud Applications  
