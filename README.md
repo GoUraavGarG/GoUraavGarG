@@ -149,7 +149,7 @@ Goal:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
-## **🎯 Career Goals**
+**🎯 Career Goals**
 
 ☁️ To become a skilled Cloud & DevOps Engineer  
 🚀 Learn AWS, Docker, Kubernetes & CI/CD Automation  
