@@ -62,7 +62,6 @@ Learning:
   - Jenkins
   - Git
   - GitHub
-  - Terraform
   - CI/CD
 
 Projects:
@@ -114,11 +113,10 @@ Goal:
 - ☁️ AWS
 - 🐳 Docker
 - ☸ Kubernetes
-- 🌍 Terraform
 - ⚙ Jenkins
 - 🚀 CI/CD
 - 🐧 Linux
-- 📝 Shell Scripting
+  
 
 ---
 
