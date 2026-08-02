@@ -64,7 +64,7 @@
 
 
 
-# ☁️ Cloud & DevOps
+# ☁️ Cloud & DevOps Skills 
 
 <div align="center">
 
@@ -78,31 +78,16 @@
 
 ---
 
-# 📚 Currently Learning
 
-- ☁️ AWS
-- 🐳 Docker
-- ☸ Kubernetes
-- ⚙ Jenkins
-- 🚀 CI/CD
-- 🐧 Linux
-  
+## 📚 Currently Exploring
 
----
+🔹 AWS Cloud Services  
+🔹 Kubernetes & Container Orchestration  
+🔹 Infrastructure Automation  
+🔹 DevOps Best Practices
 
 
 
-# 📚 Currently Learning
-
-🌱 AWS Cloud Architecture  
-🌱 Kubernetes Deployment  
-🌱 Docker Containerization  
-🌱 Terraform Basics  
-🌱 DevOps Automation  
-🌱 Cloud Security Fundamentals  
-
-
----
 
 # 📊 GitHub Statistics
 
@@ -121,6 +106,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
+
+## 🏆 Achievements / Highlights
+
+✨ BCA Graduate (2026)  
+☁️ Cloud Computing Trainee  
+🚀 Building Cloud & DevOps Projects  
+📌 Active GitHub Learner
+
+
+
 <h2>🎯 Career Goals</h2>
 
 ☁️ To become a skilled Cloud & DevOps Engineer  
