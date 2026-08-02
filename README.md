@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="350" src="https://your-image-link.gif">type=waving&height=260&color=0:0f172a,30:2563eb,70:7c3aed,100:06b6d4&text=Gourav%20&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Learner&descAlignY=58"/>
+
 
 # 👋 Hi, I'm Gourav 
 
