@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:2563eb,70:7c3aed,100:06b6d4&text=Gourav%20Garg&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Learner&descAlignY=58"/>
 
-# 👋 Hi, I'm Gourav Garg
+# 👋 Hi, I'm Gourav 
 
 ### ☁️ Cloud & DevOps Enthusiast
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/followers/GoUraavGarG?style=for-the-badge&logo=github&color=181717"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=GoUraavGarG&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=GoUraavGarG&style=for-the-badge&color=purple"/>
 
 <img src="https://img.shields.io/github/stars/GoUraavGarG?style=for-the-badge&color=yellow"/>
 
@@ -49,7 +49,7 @@
 # 🎯 Current Focus
 
 ```yaml
-Name: Gourav Garg
+Name: Gourav 
 
 Role:
   Cloud & DevOps Enthusiast
