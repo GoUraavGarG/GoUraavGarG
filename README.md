@@ -26,7 +26,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="300" src="profile.png">
+<img align="right" width="300" src="https://image-link.com/photo.png">
 🎓 BCA Graduate
 
 ☁️ Passionate about Cloud Computing & DevOps
