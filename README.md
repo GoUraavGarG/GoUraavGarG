@@ -83,7 +83,7 @@
 <table>
 <tr>
 <td>
-
+---
 ## 🚀 Featured Projects ⭐
 
 ### 🏥 Hospital Management System
@@ -103,7 +103,7 @@ Customer relationship management project.
 🔹 Infrastructure Automation  
 🔹 DevOps Best Practices
 
-
+---
 
 
 # 📊 GitHub Statistics
