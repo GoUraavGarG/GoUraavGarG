@@ -26,8 +26,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+<img align="right" width="300" src="profile.png">
 🎓 BCA Graduate
 
 ☁️ Passionate about Cloud Computing & DevOps
