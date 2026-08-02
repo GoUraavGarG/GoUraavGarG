@@ -78,6 +78,22 @@
 </div>
 
 ---
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+## 🚀 Featured Projects ⭐
+
+### 🏥 Hospital Management System
+Python based management system with admin panel.
+
+### 💰 Expense Tracker
+Application to manage personal expenses and records.
+
+### 📋 CRM System
+Customer relationship management project.
 
 
 ## 📚 Currently Exploring
