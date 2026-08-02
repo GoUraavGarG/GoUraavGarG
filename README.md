@@ -124,3 +124,64 @@ Goal:
 > **"Great engineers aren't born—they build, break, learn, and improve every single day."**
 
 ---
+
+
+---
+
+# 📚 Currently Learning
+
+🌱 AWS Cloud Architecture  
+🌱 Kubernetes Deployment  
+🌱 Docker Containerization  
+🌱 Terraform Basics  
+🌱 DevOps Automation  
+🌱 Cloud Security Fundamentals  
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GoUraavGarG&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🎯 Career Goals
+
+🚀 Become a Skilled Cloud Engineer  
+☁️ Build Scalable Cloud Applications  
+🐳 Master DevOps Tools & Automation  
+🌍 Contribute to Real-World Projects  
+
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/gourav-garg-8b2727305
+
+📧 Email: garggourav837@gmail.com
+
+🐙 GitHub:
+https://github.com/GoUraavGarG
+
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+🚀 Learn • Build • Deploy • Repeat
+
+</div>
