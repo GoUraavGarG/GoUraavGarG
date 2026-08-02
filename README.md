@@ -26,7 +26,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="300" src="https://image-link.com/photo.png">
+<img align="right" width="350" src="profile.png">
 🎓 BCA Graduate
 
 ☁️ Passionate about Cloud Computing & DevOps
@@ -120,7 +120,7 @@ Goal:
 
 # 💡 Quote
 
-> **"Great engineers aren't born—they build, break, learn, and improve every single day."**
+> ☁️ "Exploring the world of Cloud & DevOps — learning, building and growing every day."
 
 ---
 
@@ -140,7 +140,6 @@ Goal:
 ---
 
 # 📊 GitHub Statistics
-## 📊 GitHub Statistics
 
 <div align="center">
 
