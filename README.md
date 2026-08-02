@@ -140,28 +140,23 @@ Goal:
 ---
 
 # 📊 GitHub Statistics
-## 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GoUraavGarG&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GoUraavGarG&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoUraavGarG&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GoUraavGarG&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoUraavGarG&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
-
-
----
-
 # 🎯 Career Goals
 
 🚀 Become a Skilled Cloud Engineer  
