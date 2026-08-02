@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/github/stars/GoUraav?style=for-the-badge&color=yellow"/>
 
 </p>
-
+ 
 </div>
 
 ---
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,python,vscode,bash,flask"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,python,vscode,bash,flask"/>
 
 </div>
 
@@ -65,7 +65,6 @@
 
 # ☁️ Cloud & DevOps Skills 
 
-<div align="center">
 
 | Cloud | Containers | CI/CD | Version Control |
 |-------|------------|-------|-----------------|
