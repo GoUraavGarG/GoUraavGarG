@@ -44,33 +44,13 @@
 
 ---
 
-# 🎯 Current Focus
 
-```yaml
-Name: Gourav 
+## 🎯 Current Focus
 
-Role:
-  Cloud & DevOps Enthusiast
-
-Learning:
-  - AWS
-  - Docker
-  - Kubernetes
-  - Linux
-  - Jenkins
-  - Git
-  - GitHub
-  - CI/CD
-
-Projects:
-  - CRM System
-  - Expense Tracker
-
-Goal:
-  Become a Cloud & DevOps Engineer
-```
-
----
+☁️ Exploring AWS Cloud Infrastructure  
+🐳 Learning Containerization with Docker & Kubernetes  
+⚙️ Understanding CI/CD Automation  
+🌐 Building hands-on Cloud Projects
 
 # 🛠 Tech Stack
 
@@ -82,15 +62,7 @@ Goal:
 
 ---
 
-# 💻 Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,"/>
-
-</div>
-
----
 
 # ☁️ Cloud & DevOps
 
